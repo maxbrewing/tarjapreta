@@ -1,0 +1,7 @@
+motoclube-app/
+│
+├── app.py
+├── static/
+│   └── logo.png           ← sua logo
+└── templates/
+    └── painel.html        ← seu HTML
